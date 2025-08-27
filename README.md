@@ -1,4 +1,4 @@
-# roll_no_my_RPS_game (No Ties)
+# cs25mt012_my_RPS_game (No Ties)
 
 An improved Rock-Paper-Scissors game with no ties.  
 If both pick the same, it rematches until there is a winner.
